@@ -1,0 +1,11 @@
+// Base
+@import './base/reset'; // сброс стилей
+@import './base/vars'; // переменные 
+@import './base/base'; // основные стили для страницы
+
+// Blocks
+@import './blocks/header';
+@import './blocks/nav';
+@import './blocks/info';
+@import './blocks/benefits';
+
