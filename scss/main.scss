@@ -1,6 +1,7 @@
 // Base
 @import './base/reset'; // сброс стилей
 @import './base/vars'; // переменные 
+@import './base/mixins'; // переменные 
 @import './base/base'; // основные стили для страницы
 
 // Blocks
@@ -8,4 +9,11 @@
 @import './blocks/nav';
 @import './blocks/info';
 @import './blocks/benefits';
-
+@import './blocks/apartments';
+@import './blocks/card';
+@import './blocks/cta';
+@import './blocks/form';
+@import './blocks/video';
+@import './blocks/section-map';
+@import './blocks/feedback';
+@import './blocks/footer';
