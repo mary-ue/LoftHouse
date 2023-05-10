@@ -55,5 +55,11 @@
   right: 20px;
   bottom: 44px;
   font-size: 24px;
+
+  @include mediaTablet {
+    left: 30px;
+    bottom: 30px;
+    font-size: 20px;
+  }
 }
 
